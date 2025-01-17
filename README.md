@@ -1,1 +1,1 @@
-# DataMiningClustering
+# Data Mining and Clustering
